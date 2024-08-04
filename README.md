@@ -1,7 +1,6 @@
 # SpringSecurity-UserAuth
-# UserAuthApp
 
-UserAuth is a simple user registration and email verification service built with Spring Boot. It demonstrates how to create a secure user registration system with email validation and token-based confirmation.
+SpringSecurity-UserAuth is a simple user registration and email verification service built with Spring Boot. It demonstrates how to create a secure user registration system with email validation and token-based confirmation.
 
 ## Features
 
@@ -36,7 +35,7 @@ UserAuth is a simple user registration and email verification service built with
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/UserAuthApp.git
+    git clone https://github.com/samuelmeto/SpringSecurity-UserAuth.git
     cd UserAuthApp
     ```
 
