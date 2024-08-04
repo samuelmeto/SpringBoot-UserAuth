@@ -1,4 +1,4 @@
-# SpringBoot-UserAuth
+# SpringSecurity-UserAuth
 # UserAuthApp
 
 UserAuth is a simple user registration and email verification service built with Spring Boot. It demonstrates how to create a secure user registration system with email validation and token-based confirmation.
